@@ -6,7 +6,7 @@ ghpages.publish(
         branch: 'gh-pages',
         repo: 'https://github.com/scanandro/scanandro.github.io', // Update to point to your repository  
         user: {
-            name: 'ScanAndro', // update to use your name
+            name: 'scanandro', // update to use your name
             email: 'mulham@scanandro.com' // Update to use your email
         }
     },

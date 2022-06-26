@@ -5,7 +5,7 @@
 
     $: result = '';
     let msg = '';
-    let Domain = 'http://127.0.0.1:8000/api/v1/';
+    let Domain = 'http://78.186.198.48/api/v1/';
 	let fileName = "";
     let fileSize = 0.0;
     let disabled = false;
